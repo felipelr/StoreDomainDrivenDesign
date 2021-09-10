@@ -1,9 +1,10 @@
 
 using System;
+using Flunt.Notifications;
 
 namespace StoreDDD.Domain.Entities
 {
-    public class Entity
+    public class Entity : Notifiable<Notification>
     {
         public Entity()
         {
