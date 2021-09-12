@@ -1,12 +1,12 @@
+D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\bin\Debug\net5.0\StoreDDD.Domain.deps.json
+D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\bin\Debug\net5.0\StoreDDD.Domain.dll
+D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\bin\Debug\net5.0\ref\StoreDDD.Domain.dll
+D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\bin\Debug\net5.0\StoreDDD.Domain.pdb
 D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\obj\Debug\net5.0\StoreDDD.Domain.csproj.AssemblyReference.cache
 D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\obj\Debug\net5.0\StoreDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\obj\Debug\net5.0\StoreDDD.Domain.AssemblyInfoInputs.cache
 D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\obj\Debug\net5.0\StoreDDD.Domain.AssemblyInfo.cs
 D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\obj\Debug\net5.0\StoreDDD.Domain.csproj.CoreCompileInputs.cache
-D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\bin\Debug\net5.0\StoreDDD.Domain.deps.json
-D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\bin\Debug\net5.0\StoreDDD.Domain.dll
-D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\bin\Debug\net5.0\ref\StoreDDD.Domain.dll
-D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\bin\Debug\net5.0\StoreDDD.Domain.pdb
 D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\obj\Debug\net5.0\StoreDDD.Domain.dll
 D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\obj\Debug\net5.0\ref\StoreDDD.Domain.dll
 D:\ProjetosDotNet\StoreDDD\StoreDDD.Domain\obj\Debug\net5.0\StoreDDD.Domain.pdb

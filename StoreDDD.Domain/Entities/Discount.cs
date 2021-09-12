@@ -13,14 +13,14 @@ namespace StoreDDD.Domain.Entities
         public decimal Amount { get; private set; }
         public DateTime ExpireDate { get; set; }
 
-        public bool IsValid()
+        public bool IsDiscountValid()
         {
             return DateTime.Compare(DateTime.Now, ExpireDate) < 0;
         }
 
         public decimal Value()
         {
-            if (IsValid())
+            if (IsDiscountValid())
                 return Amount;
 
             return 0;
